@@ -2,10 +2,10 @@
 #  DS-GA 3001.001 Special Topics in Data Science: Probabilistic Time Series Analysis
 
 ### Lecture 
-Mo, 2:00-3:40pm, in 60 5th Av, C10
+Mon, 2:00-3:40pm, in 60 5th Av, Room 110
 
 ### Lab (required for all students)
-Thu, 6.45- 7.35pm in  60 5th Av, C12
+Wed, 3:30- 4.20pm in  60 5th Av, Room 110
 
 ###  Instructor 
 Cristina Savin, csavin@nyu.edu
