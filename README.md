@@ -1,30 +1,36 @@
-##  timeseries2018
-#  DS-GA 3001.001  Modeling Time Series Data
+##  timeseries2019
+#  DS-GA 3001.001 Special Topics in Data Science: Probabilistic Time Series Analysis
 
 ### Lecture 
-Tue, 3:20-5:00pm, in 60 5th Av, C10
+Mo, 2:00-3:40pm, in 60 5th Av, C10
 
 ### Lab (required for all students)
 Thu, 6.45- 7.35pm in  60 5th Av, C12
 
 ###  Instructor 
 Cristina Savin, csavin@nyu.edu
-Office hours: Tue, 5:00-6:00pm, Room 608
+Office hours: Mo, 4:00-5:00pm, Room 608
 
 ### TA 
+Caroline Haimerl, ch2880@nyu.edu
 Yiqiu (Artie) Shen, ys1001@nyu.edu
-Office hours: Thu, 11am-12pm, Room 660
+Office hours: 
 
 ### Overview
-This graduate level course presents fundamental tools for characterizing data with statistical dependencies over time, and using this knowledge for predicting future outcomes. These methods have broad applications from econometrics to neuroscience. The course emphasizes generative models for time series, and inference and learning in such models. We will cover range of approaches including AR(I)MA, Kalman Filtering, HMMs, Gaussian Processes,  and their application to several kinds of data.
+This graduate level course presents fundamental tools for characterizing data with statistical dependencies over time, and using this knowledge for predicting future outcomes. These methods have broad applications from econometrics to neuroscience.The course emphasizes generative models for time series, and inference and learning in such models. We will cover range of approaches including Kalman Filter, HMMs, AR(I)MA, Gaussian Processes,  and their application to several kinds of data.
 
-Note: information presented is tentative, syllabus may be subject to change as the course progresses.
+Note: information presented is tentative, syllabus may be subject to change as course progresses.
 
 ### Grading
-problem sets (35%) + midterm exam (25%) + final project (25%) + participation (15%). 
+problem sets (25%) + midterm exam (25%) + final project (25%) + lab(20%)+participation(5%)
+
+Participation: piazza, engagement during lectures, labs, and office hours
 
 ### Piazza 
-We will use [Piazza]( https://piazza.com/nyu/spring2018/dsga3001008/home) to answer questions and post announcements about the course.  Students' use of Piazza, in particular answering other students' questions well, will contribute to the participation grade.
+We will usePiazzafor announcements, and discussions about the course. Interactions on Piazza, particularly good answers to other students' questions, will count toward the participation grade.
+
+### Projects
+Work in groups of 2-3 students.* Topics are flexible, including applying know algorithms to an interesting dataset, reviewing and implementing a state of the art solution, to improving an existing algorithm. Project proposals due in week 4. *Check with CS if you are considering working individually or in a larger group.
 
 ### Online recordings 
 Lecture videos will be posted to NYU Classes. Class attendance is still required.
@@ -65,9 +71,9 @@ Lecture videos will be posted to NYU Classes. Class attendance is still required
 There is no required textbook. Assigned readings will come from freely-available online material.
 
 #### Core materials
- - Time series analysis and its applications, by Shumway and Stoffer, 4th edition (freely available pdf)
- - Pattern recognition and machine learning, Bishop
- - Gaussian processes Rassmussen & Williams, (materials freely available online, including gpml library)
+- Time series analysis and its applications, by Shumway and Stoffer, 4th edition
+- Pattern recognition and machine learning, Bishop
+- Gaussian processes Rassmussen & Williams
 
 #### Useful extras
  - [Review notes from Stanford's machine learning class](http://cs229.stanford.edu/section/cs229-prob.pdf)
@@ -82,5 +88,5 @@ We expect you to try solving each problem set on your own. However, if  stuck  y
   - You must write down the names of any person with whom you discussed it. This will not affect your grade.
   - Do not consult other people's solutions from similar courses.
 
-#### *Late submission policy*
-During the full semester you are allowed a total of maximum of 5 days extension on homework assignments. Each day comes with a  penalty of 20% off your assignment.
+#### *Policies*
+Try to solve problems on your own first. If you get stuck, you can discuss homework questions with colleagues, but you need to write up the final solution individually.  Credit should be explicitly given for any code you use that you did not write yourselves.Late submission penalties: 20% points off for each extra day of delay.
