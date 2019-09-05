@@ -39,33 +39,35 @@ Lecture videos will be posted to NYU Classes. Class attendance is still required
 
 | Date | Lecture  | Extras | |
 |----------|---------------|----------------|----------------|
-|Jan.23| [Lecture 1: Logistics. Introduction.  Basic statistics for characterizing time series.](https://github.com/charlieblue17/timeseries2018/blob/master/slides/lecture1.pdf) | [Shumway Stoffer Ch.1](http://www.stat.pitt.edu/stoffer/tsa4/) | |
-|Jan.25| [Lab1: Simulating simple stochastic processes. Basic statistics.](https://github.com/charlieblue17/timeseries2018/blob/master/lab/week1/lab-week-1.pdf) | | |
-|Jan.30| [Lecture 2: AR(I)MA](https://github.com/charlieblue17/timeseries2018/blob/master/slides/lecture2.pdf) | [Shumway Stoffer Ch.3](http://www.stat.pitt.edu/stoffer/tsa4/) | |
-|Febr.1| [Lab 2: AR(I)MA](https://github.com/charlieblue17/timeseries2018/tree/master/lab/week2) | | [Problem set 1](https://github.com/charlieblue17/timeseries2018/blob/master/homeworks/hw1.pdf), [solution](https://github.com/charlieblue17/timeseries2018/blob/master/homeworks/hw1_solution.pdf), due Febr. 12 |
-|Febr.6| [Lecture 3: LDS; Kalman filtering](https://github.com/charlieblue17/timeseries2018/blob/master/slides/lecture3.pdf) | [kalmanderivations.pdf](https://github.com/charlieblue17/timeseries2018/blob/master/handouts/kalmanderivations.pdf) | Brainstorm project ideas |
-|Febr.8| [Lab 3: Basic probability review. LDS inference](https://github.com/charlieblue17/timeseries2018/blob/master/lab/Lab3.pdf) | | [Project proposal](https://github.com/charlieblue17/timeseries2018/blob/master/handouts/projectproposal.pdf) due Febr. 27 |
-|Febr.13 |[Lecture 4: EM. Particle filtering](https://github.com/charlieblue17/timeseries2018/blob/master/slides/lecture4.pdf) | [LDSlearning.pdf](https://github.com/charlieblue17/timeseries2018/blob/master/handouts/LDSlearning.pdf), [particlefiltering.pdf](https://github.com/charlieblue17/timeseries2018/blob/master/handouts/particlefiltering.pdf) | |
-|Febr.15 |[Lab 4: LSD learning](https://github.com/charlieblue17/timeseries2018/blob/master/lab/week4/lab-week-4.pdf)  | |  |
-|Febr.20 |[Lecture 5: HMMs](https://github.com/charlieblue17/timeseries2018/blob/master/slides/lecture5.pdf) | [hmm.pdf](https://github.com/charlieblue17/timeseries2018/blob/master/handouts/hmm.pdf) | [Problem set 2](https://github.com/charlieblue17/timeseries2018/blob/master/homeworks/hw2.pdf), due March 2|
-|Febr.22| Lab 5: HMMs | | [Problem set 3](https://github.com/charlieblue17/timeseries2018/blob/master/homeworks/hw3.pdf), due March 30 |
-|Febr.27 | Lecture 6: An unified view of linear models. Beyond linear. | Roweis and Ghahramani, 1999 |
-|March 1 | Lab 6: Revisiting ARIMA, focus on applications | arima.pdf |
-|March 6 | Midterm | | |
-|March 8 | No lab | | |
-|March 20| Guest lecture: State space models in the brain, Il Memming Park| email CS for slides| |
-|March 22| No lab | | |
-|March 27 | [Lecture 8: GP basics](https://github.com/charlieblue17/timeseries2018/blob/master/slides/lecture8.pdf) | | |
-|March 29 | Lab: GP  | | |
-|April 3 | [Lecture 9: RNNs (Kyunghyun Cho)](https://github.com/charlieblue17/timeseries2018/blob/master/slides/rnn_timeseries.pptx) | | |
-|April 5| Projects status discussion | | |
-|April 12| Lab: GP || [Problem set 4](https://github.com/charlieblue17/timeseries2018/blob/master/homeworks/hw4.pdf), due April 26th |
-|April 17| [Lecture 10: Sparse GP methods](https://github.com/charlieblue17/timeseries2018/blob/master/slides/lecture10.pdf)|||
-|April 19| Lab | no lab ||
-|April 24| Lecture 11: Spectral methods |||
-|April 26| Lab: Spectral methods |||
-|May 1| Projects presentation | [Instructions](https://github.com/charlieblue17/timeseries2018/blob/master/project/projectwriteup.pdf) | Final reports due May 8th!|
-
+|Sept. 4| [no lab] | | |
+|Sept. 9| [Lecture 1: Logistics. Introduction.  Basic statistics for characterizing time series.]| | |
+|Sept. 11|[Recap basic Bayes, graphical models] | | |
+|Sept. 16| [Lecture 2: AR(I)] | [MA Problem set 1] | |
+|Sept. 18| [Lab 1: ARIMA] | | |
+|Sept. 23| [Lecture 3: LDS] | [Kalman filtering] | [Projects initial discussion] |
+|Sept. 25| [Lab 2: Inference in LDS] | | |
+|Sept. 30| [Lecture 4: Particle filtering] | | [Problem set 2] |
+|Oct. 2| [Lab 3: LSD parameter learning] | | |
+|Oct. 7| [Lecture 5: Hidden Markov ModelsProject proposal due] | || 
+|Oct. 9| [Lab 4: Particle filtering] | | |
+|Oct.15 (TUE!)| Lecture 6: a unified view of linear modelsProblem set 3 | | |
+|Oct.16| Lab 5: HMMs | | |
+|Oct.21| Introduction to Gaussian Processes | | |
+|Oct.23| No lab. Office hours | | |
+|Oct.28| Mid-term exam | | |
+|Oct.30| No lab | | |
+|Nov. 4| GP advanced topics.Intro to RNNs | | Problem set 4 |
+|Nov. 6| Lab GP | | |
+|Nov.11| Deep learning for time series  | | |
+|Nov.13| RNNS lab | | |
+|Nov.18| Spectral methods 1 | | Problem set 5 |
+|Nov. 20| Lab spectral methods  | | |
+|Nov. 25| Spectral methods 2 | | |
+|Nov. 27| Thanksgiving | | |
+|Dec. 2| Guest lecture: Joan Bello | | |
+|Dec. 4| No lab. Work on projects | | |
+|Dec. 9| Final projects presentation | | Project reports due Dec.15 |
+|Dec. 11| No lab | | |
 
 ### Bibliography
 There is no required textbook. Assigned readings will come from freely-available online material.
