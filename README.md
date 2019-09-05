@@ -9,11 +9,12 @@ Thu, 6.45- 7.35pm in  60 5th Av, C12
 
 ###  Instructor 
 Cristina Savin, csavin@nyu.edu
+
 Office hours: Mo, 4:00-5:00pm, Room 608
 
 ### TA 
-Caroline Haimerl, ch2880@nyu.edu
-Yiqiu (Artie) Shen, ys1001@nyu.edu
+Caroline Haimerl, ch2880@nyu.edu and Yiqiu (Artie) Shen, ys1001@nyu.edu
+
 Office hours: 
 
 ### Overview
@@ -39,17 +40,17 @@ Lecture videos will be posted to NYU Classes. Class attendance is still required
 
 | Date | Lecture  | Extras | |
 |----------|---------------|----------------|----------------|
-|Sept. 4| [no lab] | | |
-|Sept. 9| [Lecture 1: Logistics. Introduction.  Basic statistics for characterizing time series.]| | |
-|Sept. 11|[Recap basic Bayes, graphical models] | | |
-|Sept. 16| [Lecture 2: AR(I)] | [MA Problem set 1] | |
-|Sept. 18| [Lab 1: ARIMA] | | |
-|Sept. 23| [Lecture 3: LDS] | [Kalman filtering] | [Projects initial discussion] |
-|Sept. 25| [Lab 2: Inference in LDS] | | |
-|Sept. 30| [Lecture 4: Particle filtering] | | [Problem set 2] |
-|Oct. 2| [Lab 3: LSD parameter learning] | | |
-|Oct. 7| [Lecture 5: Hidden Markov ModelsProject proposal due] | || 
-|Oct. 9| [Lab 4: Particle filtering] | | |
+|Sept. 4| [no lab]() | | |
+|Sept. 9| [Lecture 1: Logistics. Introduction.  Basic statistics for characterizing time series.]()| | |
+|Sept. 11|[Recap basic Bayes, graphical models]() | | |
+|Sept. 16| [Lecture 2: AR(I)[MA]]() |  | [Problem set 1]() |
+|Sept. 18| [Lab 1: ARIMA]() | | |
+|Sept. 23| [Lecture 3: LDS, Kalman filtering]() |  | [Projects initial discussion]() |
+|Sept. 25| [Lab 2: Inference in LDS]() | | |
+|Sept. 30| [Lecture 4: Particle filtering]() | | [Problem set 2]() |
+|Oct. 2| [Lab 3: LSD parameter learning]() | | |
+|Oct. 7| [Lecture 5: Hidden Markov ModelsProject proposal due]() | || 
+|Oct. 9| [Lab 4: Particle filtering]() | | |
 |Oct.15 (TUE!)| Lecture 6: a unified view of linear modelsProblem set 3 | | |
 |Oct.16| Lab 5: HMMs | | |
 |Oct.21| Introduction to Gaussian Processes | | |
