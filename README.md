@@ -38,37 +38,37 @@ Lecture videos will be posted to NYU Classes. Class attendance is still required
 
 ## Schedule and detailed syllabus
 
-| Date | Lecture  | Assignments | Extras |
-|----------|---------------|----------------|----------------|
-|Sept. 4| [no lab]| | |
-|Sept. 9| [Lecture 1: Logistics. Introduction.  Basic statistics for characterizing time series.](slides/lecture1.pdf)| | |
-|Sept. 11|[Recap basic Bayes, graphical models] | | |
-|Sept. 16| [Lecture 2: AR(I)[MA]] |  |  |
+| Date | Lecture  | Assignments |
+|------------|----------------------|----------------|
+|Sept. 4| [no lab]| | 
+|Sept. 9| [Lecture 1: Logistics. Introduction.  Basic statistics for characterizing time series.](slides/lecture1.pdf)| | 
+|Sept. 11|[Recap basic Bayes, graphical models] | | 
+|Sept. 16| [Lecture 2: AR(I)MA] |  |  
 |Sept. 18| [Lab 1: ARIMA] | | |
-|Sept. 23| [Lecture 3: LDS, Kalman filtering] |  ||
-|Sept. 25| [Lab 2: Inference in LDS] | | |
-|Sept. 30| [Lecture 4: Particle filtering]| | |
+|Sept. 23| [Lecture 3: LDS, Kalman filtering] |  |
+|Sept. 25| [Lab 2: Inference in LDS] | | 
+|Sept. 30| [Lecture 4: Particle filtering]| | 
 |Oct. 2| [Lab 3: LSD parameter learning] | | |
-|Oct. 7| [Lecture 5: Hidden Markov Models | Project proposal due | || 
-|Oct. 9| [Lab 4: Particle filtering] | | |
-|Oct.15 TUE!| Lecture 6: a unified view of linear models | | |
-|Oct.16| Lab 5: HMMs | | |
-|Oct.21| Introduction to Gaussian Processes | | |
-|Oct.23| No lab. Office hours | | |
-|Oct.28| Mid-term exam | | |
-|Oct.30| No lab | | |
-|Nov. 4| GP advanced topics.Intro to RNNs | | |
-|Nov. 6| Lab GP | | |
-|Nov.11| Deep learning for time series  | | |
-|Nov.13| RNNS lab | | |
-|Nov.18| Spectral methods 1 | | |
-|Nov. 20| Lab spectral methods  | | |
-|Nov. 25| Spectral methods 2 | | |
-|Nov. 27| Thanksgiving | | |
-|Dec. 2| Guest lecture: Joan Bello | | |
-|Dec. 4| No lab. Work on projects | | |
-|Dec. 9| Final projects presentation | | Project reports due Dec.15 |
-|Dec. 11| No lab | | |
+|Oct. 7| [Lecture 5: Hidden Markov Models | Project proposal due | |
+|Oct. 9| [Lab 4: Particle filtering] | | 
+|Oct.15 TUE!| Lecture 6: a unified view of linear models | | 
+|Oct.16| Lab 5: HMMs | | 
+|Oct.21| Introduction to Gaussian Processes | | 
+|Oct.23| No lab. Office hours | | 
+|Oct.28| Mid-term exam | | 
+|Oct.30| No lab | | 
+|Nov. 4| GP advanced topics.Intro to RNNs | | 
+|Nov. 6| Lab GP | | 
+|Nov.11| Deep learning for time series  | | 
+|Nov.13| RNNS lab | | 
+|Nov.18| Spectral methods 1 | | 
+|Nov. 20| Lab spectral methods  | | 
+|Nov. 25| Spectral methods 2 | | 
+|Nov. 27| Thanksgiving | | 
+|Dec. 2| Guest lecture: Joan Bello | | 
+|Dec. 4| No lab. Work on projects | | 
+|Dec. 9| Final projects presentation |  Project reports due Dec.15 |
+|Dec. 11| No lab | | 
 
 ### Bibliography
 There is no required textbook. Assigned readings will come from freely-available online material.
