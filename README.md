@@ -38,7 +38,7 @@ Lecture videos will be posted to NYU Classes. Class attendance is still required
 
 ## Schedule and detailed syllabus
 
-| Date | Lecture  | Extras | |
+| Date | Lecture  | Assignments | Extras |
 |----------|---------------|----------------|----------------|
 |Sept. 4| [no lab]| | |
 |Sept. 9| [Lecture 1: Logistics. Introduction.  Basic statistics for characterizing time series.](slides/lecture1.pdf)| | |
