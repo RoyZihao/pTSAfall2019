@@ -42,26 +42,26 @@ Lecture videos will be posted to NYU Classes. Class attendance is still required
 |----------|---------------|----------------|----------------|
 |Sept. 4| [no lab]() | | |
 |Sept. 9| [Lecture 1: Logistics. Introduction.  Basic statistics for characterizing time series.]()| | |
-|Sept. 11|[Recap basic Bayes, graphical models]() | | |
-|Sept. 16| [Lecture 2: AR(I)[MA]]() |  | [Problem set 1]() |
-|Sept. 18| [Lab 1: ARIMA]() | | |
-|Sept. 23| [Lecture 3: LDS, Kalman filtering]() |  | [Projects initial discussion]() |
-|Sept. 25| [Lab 2: Inference in LDS]() | | |
-|Sept. 30| [Lecture 4: Particle filtering]() | | [Problem set 2]() |
-|Oct. 2| [Lab 3: LSD parameter learning]() | | |
-|Oct. 7| [Lecture 5: Hidden Markov ModelsProject proposal due]() | || 
-|Oct. 9| [Lab 4: Particle filtering]() | | |
-|Oct.15 (TUE!)| Lecture 6: a unified view of linear modelsProblem set 3 | | |
+|Sept. 11|[Recap basic Bayes, graphical models] | | |
+|Sept. 16| [Lecture 2: AR(I)[MA]] |  |  |
+|Sept. 18| [Lab 1: ARIMA] | | |
+|Sept. 23| [Lecture 3: LDS, Kalman filtering] |  ||
+|Sept. 25| [Lab 2: Inference in LDS] | | |
+|Sept. 30| [Lecture 4: Particle filtering]| | |
+|Oct. 2| [Lab 3: LSD parameter learning] | | |
+|Oct. 7| [Lecture 5: Hidden Markov Models | Project proposal due | || 
+|Oct. 9| [Lab 4: Particle filtering] | | |
+|Oct.15 TUE!| Lecture 6: a unified view of linear models | | |
 |Oct.16| Lab 5: HMMs | | |
 |Oct.21| Introduction to Gaussian Processes | | |
 |Oct.23| No lab. Office hours | | |
 |Oct.28| Mid-term exam | | |
 |Oct.30| No lab | | |
-|Nov. 4| GP advanced topics.Intro to RNNs | | Problem set 4 |
+|Nov. 4| GP advanced topics.Intro to RNNs | | |
 |Nov. 6| Lab GP | | |
 |Nov.11| Deep learning for time series  | | |
 |Nov.13| RNNS lab | | |
-|Nov.18| Spectral methods 1 | | Problem set 5 |
+|Nov.18| Spectral methods 1 | | |
 |Nov. 20| Lab spectral methods  | | |
 |Nov. 25| Spectral methods 2 | | |
 |Nov. 27| Thanksgiving | | |
@@ -90,6 +90,7 @@ We expect you to try solving each problem set on your own. However, if  stuck  y
   - Once you solve the homework, you must write up your solutions on your own.
   - You must write down the names of any person with whom you discussed it. This will not affect your grade.
   - Do not consult other people's solutions from similar courses.
+  - Violations result in a zero score on that assignment, and a notice to the DGS.
 
 #### *Policies*
 Try to solve problems on your own first. If you get stuck, you can discuss homework questions with colleagues, but you need to write up the final solution individually.  Credit should be explicitly given for any code you use that you did not write yourselves.Late submission penalties: 20% points off for each extra day of delay.
