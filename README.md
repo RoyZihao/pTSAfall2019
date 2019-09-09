@@ -40,8 +40,8 @@ Lecture videos will be posted to NYU Classes. Class attendance is still required
 
 | Date | Lecture  | Extras | |
 |----------|---------------|----------------|----------------|
-|Sept. 4| [no lab]() | | |
-|Sept. 9| [Lecture 1: Logistics. Introduction.  Basic statistics for characterizing time series.]()| | |
+|Sept. 4| [no lab]| | |
+|Sept. 9| [Lecture 1: Logistics. Introduction.  Basic statistics for characterizing time series.](slides/lecture1.pdf)| | |
 |Sept. 11|[Recap basic Bayes, graphical models] | | |
 |Sept. 16| [Lecture 2: AR(I)[MA]] |  |  |
 |Sept. 18| [Lab 1: ARIMA] | | |
